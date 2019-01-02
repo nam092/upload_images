@@ -1,13 +1,13 @@
 {
-  "main.css": "/nam092/upload_images.git/static/css/main.ab72c569.chunk.css",
-  "main.js": "/nam092/upload_images.git/static/js/main.f63f674d.chunk.js",
-  "main.js.map": "/nam092/upload_images.git/static/js/main.f63f674d.chunk.js.map",
-  "static/js/1.d439e874.chunk.js": "/nam092/upload_images.git/static/js/1.d439e874.chunk.js",
-  "static/js/1.d439e874.chunk.js.map": "/nam092/upload_images.git/static/js/1.d439e874.chunk.js.map",
-  "runtime~main.js": "/nam092/upload_images.git/static/js/runtime~main.b1f52c37.js",
-  "runtime~main.js.map": "/nam092/upload_images.git/static/js/runtime~main.b1f52c37.js.map",
-  "static/css/main.ab72c569.chunk.css.map": "/nam092/upload_images.git/static/css/main.ab72c569.chunk.css.map",
-  "index.html": "/nam092/upload_images.git/index.html",
-  "precache-manifest.e90b9fb375f3fe7a409f3fd79d580f5f.js": "/nam092/upload_images.git/precache-manifest.e90b9fb375f3fe7a409f3fd79d580f5f.js",
-  "service-worker.js": "/nam092/upload_images.git/service-worker.js"
+  "main.css": "/nam092/upload_images/static/css/main.ab72c569.chunk.css",
+  "main.js": "/nam092/upload_images/static/js/main.1b48489b.chunk.js",
+  "main.js.map": "/nam092/upload_images/static/js/main.1b48489b.chunk.js.map",
+  "static/js/1.d439e874.chunk.js": "/nam092/upload_images/static/js/1.d439e874.chunk.js",
+  "static/js/1.d439e874.chunk.js.map": "/nam092/upload_images/static/js/1.d439e874.chunk.js.map",
+  "runtime~main.js": "/nam092/upload_images/static/js/runtime~main.eb39919d.js",
+  "runtime~main.js.map": "/nam092/upload_images/static/js/runtime~main.eb39919d.js.map",
+  "static/css/main.ab72c569.chunk.css.map": "/nam092/upload_images/static/css/main.ab72c569.chunk.css.map",
+  "index.html": "/nam092/upload_images/index.html",
+  "precache-manifest.09d36bb335b67a5ca834b140b5746ba9.js": "/nam092/upload_images/precache-manifest.09d36bb335b67a5ca834b140b5746ba9.js",
+  "service-worker.js": "/nam092/upload_images/service-worker.js"
 }
